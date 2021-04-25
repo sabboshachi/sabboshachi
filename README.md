@@ -1,6 +1,5 @@
 # Hi there, I'm Sabboshachi Sarkar 👋
 
-<!--
 **sabboshachi/sabboshachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!--
 ## I'm a Python Developer,Sports Lover,Coder !!
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
@@ -48,25 +47,11 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Calorie Tracker App With Python Django Framework](https://medium.com/dev-genius/calorie-tracker-app-with-python-django-framework-cc86dc2046e8?source=rss-df3c6610d16e------2)
-- [Tic-Tac-Toe Game With Python](https://medium.com/analytics-vidhya/tic-tac-toe-game-with-python-6934236fe802?source=rss-df3c6610d16e------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@tanmoy9920)
 
 ---
 
@@ -82,7 +67,7 @@ Here are some ideas to get you started:
 
   
 
-  <img align="left" alt="Tanmoy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tanmoy-Sarkar&show_icons=true&hide_border=true&theme=onedark" />
+  [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?sabboshachi=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 
 
