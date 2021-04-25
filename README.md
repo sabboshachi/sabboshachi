@@ -55,25 +55,6 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-
-  
-
-  [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?sabboshachi=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
-
-
-
-
-
-
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/tanmoy_sarkar_saikat/
 [facebook]: https://www.facebook.com/tanmoy.sarkar.4085/
