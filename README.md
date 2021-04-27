@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?sabboshachi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
