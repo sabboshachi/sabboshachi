@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning!
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
 - 😄 Pronouns: ..
-- ⚡ Fun fact: Coding is fun and more fun is to see your github overview green green ! :P
+- ⚡ Fun fact: Coding is fun and more fun is to see your github contributions greeny! :P
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
