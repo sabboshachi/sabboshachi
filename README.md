@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning Thesis!
 - 💬 Ask me about Machine Learning!
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
-- 😄 Pronouns: ..
+- 😄 Pronouns: ...
 - ⚡ Fun fact: Coding is fun but more fun is to see your github contributions greeny! :P
 ### Languages and Tools:
 
