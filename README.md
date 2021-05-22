@@ -1,4 +1,4 @@
-## Hi there, I'm Sabboshachi Sarkar...!👋👋👋
+## Hi there, I'm Sabboshachi Sarkar...
 
 <!-- **sabboshachi/sabboshachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
