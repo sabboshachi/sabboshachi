@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JAVA!! (to expand my knowledge and for future work)
 - 👯 I’m looking to collaborate on Machine Learning Thesis!
 - 🤔 I’m looking for help with Machine Learning Thesis!
-- 💬 Ask me about Machine Learning!
+- 💬 Ask me about Machine Learning!🤖
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny! :P
+- ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!😅
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
