@@ -39,7 +39,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabboshachi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sabboshachis Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabboshachi&bg_color=00001a&color=ffffff&line=ff5050&point=FFFFFF&hide_border=true"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sabboshachis Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabboshachi&bg_color=00001a&color=ffffff&line=00ffff&point=FFFFFF&hide_border=true"/></a>
 
 ##
 <p align="center">
