@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 # Hi, I'm Sabboshachi Sarkar.
 
@@ -39,9 +39,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabboshachi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
+## Contribution Graph
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sabboshachis Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabboshachi&bg_color=00001a&color=ffffff&line=00cc00&point=FFFFFF&hide_border=true"/></a>
 
-##
+## Contact
+
 <p align="center">
 	<a href="https://github.com/sabboshachi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sabboshachi-sarkar-8b5573154"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -49,5 +52,5 @@
 	<a href="https://www.instagram.com/_sabboshachi_//"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sabboshachi71"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-##
+
 
