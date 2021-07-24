@@ -3,7 +3,7 @@
 
 <!-- **sabboshachi/sabboshachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Machine Learning with Python for My University Final Year Thesis!
 - 🌱 I’m currently learning JAVA!! (to expand my knowledge and for future work)
@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning Thesis!
 - 💬 Ask me about Machine Learning!🤖
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
-- 😄 Pronouns: ....
+<!--- 😄 Pronouns: .... -->
 - ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!✅😅
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
