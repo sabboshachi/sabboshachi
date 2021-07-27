@@ -13,9 +13,9 @@
 - 🤔 I’m looking for help with Machine Learning Thesis!
 - 💬 Ask me about Machine Learning!🤖
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
-<!--- 😄 Pronouns: .... -->
 - 📫 More details about me: [SABBOSHACHI SARKAR](https://sabboshachi.github.io)
 - ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!✅😅
+<!--- 😄 Pronouns: .... -->
 
 ## Languages and Tools:
 
