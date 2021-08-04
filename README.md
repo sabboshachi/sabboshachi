@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning JAVA!! (to expand my knowledge and for future work)
 - 👯 I’m looking to collaborate on Machine Learning Thesis!
 - 🤔 I’m looking for help with Machine Learning Thesis!
-- 💬 Ask me about Machine Learning!🤖
+- 💬 Ask me about Machine Learning!
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
 - 📫 Find more about me @: [SABBOSHACHI SARKAR](https://sabboshachi.github.io)
 - ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!✅😅
