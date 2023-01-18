@@ -46,7 +46,7 @@
 	<a href="https://www.linkedin.com/in/sabboshachi-sarkar-8b5573154"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/sabboshachi/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/_sabboshachi_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sabboshachi71"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/sabboshachi71"><img src="https://icons8.com/icon/WIZHqjQ9RbXY/twitter" alt="Twitter"/></a>
 </p>
 
 
