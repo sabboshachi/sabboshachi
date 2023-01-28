@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabboshachi&" alt="sabboshachi" /></p>
 
 
-## Contact
+## Contact.
 
 <p align="middle">
 <a href="https://twitter.com/sabboshachi71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabboshachi71" height="30" width="40" /></a>
