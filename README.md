@@ -6,9 +6,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Machine Learning with Python for My University Final Year Thesis!
-- 🌱 I’m currently learning JAVA!! (to expand my knowledge and for future work)
-- 👯 I’m looking to collaborate on Machine Learning Thesis!
-- 🤔 I’m looking for help with Machine Learning Thesis!
+- 🌱 I’m currently learning Mathematical Models of ML Algorithms and also basics of Natural Language Processing !! (to expand my knowledge and for future work)
+- 👯 I’m looking to collaborate on Machine Learning Reserach!
+- 🤔 I’m looking for help with Machine Learning Research and Publication!
 - 💬 Ask me about Machine Learning!
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
 - 📫 Find more about me @: [SABBOSHACHI SARKAR](https://sabboshachi.github.io)
