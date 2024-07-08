@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Mathematical Models of ML Algorithms and also basics of Natural Language Processing !! (to expand my knowledge and for future work)
 - 👯 I’m looking to collaborate on Machine Learning Reserach!
 - 🤔 I’m looking for help with Machine Learning Research and Publication!
-- 💬 Ask me about Machine Learning!
 - 📫 How to reach me: sabboshachi.ruet@gmail.com 
 - 📫 Find more about me @: [SABBOSHACHI SARKAR](https://sabboshachi.github.io)
 - ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!✅😅
