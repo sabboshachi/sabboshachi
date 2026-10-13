@@ -1,22 +1,70 @@
-# Hi, I'm Sabboshachi Sarkar
+# Hi, I'm Sabboshachi Sarkar 👋
 
+**Embedded Software Engineer** · C/C++ · STM32 · FreeRTOS · CAN · MODBUS · MQTT
 
-<!-- **sabboshachi/sabboshachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I build firmware for STM32 microcontrollers and the communication layers around them. My work runs from reading client requirements to firmware, wiring, test bench validation and on-site testing. I'm based in Dhaka, Bangladesh, and I'm open to embedded roles with international teams.
 
-<!-- Here are some ideas to get you started: -->
+---
 
-- 🔭 I’m currently working on Machine Learning with Python for My University Final Year Thesis!
-- 🌱 I’m currently learning Mathematical Models of ML Algorithms and also basics of Natural Language Processing !! (to expand my knowledge and for future work)
-- 👯 I’m looking to collaborate on Machine Learning Reserach!
-- 🤔 I’m looking for help with Machine Learning Research and Publication!
-- 📫 How to reach me: sabboshachi.ruet@gmail.com 
-- 📫 Find more about me @: [SABBOSHACHI SARKAR](https://sabboshachi.github.io)
-- ⚡ Fun fact: Coding is fun but more fun is to see  github contributions greeny!✅😅
-<!--- 😄 Pronouns: .... -->
+## 🔧 What I do
 
-## Languages and Tools:
+- Write C/C++ firmware for STM32 (Nucleo F446RE, H755ZI-Q), with FreeRTOS, GPIO, interrupts, ADC, timers and DMA
+- Implement communication protocols: CAN, UART, I2C, SPI, MODBUS TCP, TCP/Ethernet, MQTT, SAS and ID003
+- Bring up hardware, debug it, and validate it on a test bench
+- Build desktop tools (Flutter on Windows) to control and monitor embedded devices
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🧰 Tech stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_IoT_Hub-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+| Area | Details |
+|---|---|
+| Firmware | FreeRTOS, GPIO, interrupts, ADC, timers, DMA, STM32CubeMX / CubeIDE |
+| Protocols | CAN, UART, I2C, SPI, MODBUS TCP, TCP/Ethernet, MQTT, TLS, SAS, ID003 |
+| Debugging and test | ST-Link, logic analyzer, oscilloscope, CAN analyzer, Wireshark |
+| Tools | Git/GitHub, Jira, VS Code, Orchestra Suite, MATLAB/Simulink |
+
+## 🚀 Things I've worked on
+
+Work projects are summarized here without client details.
+
+- **CAN-based vehicle control systems:** component control interfaces and front/rear lighting control, on STM32 with FreeRTOS
+- **FreeRTOS control system for a 6-DOF robotic arm** on an industrial production line, using UART messaging
+- **Casino gaming machine communication:** SAS and ID003 protocols over UART, including on-site testing with the client
+- **Secure client-server communication:** MODBUS TCP with TLS, plus a custom Wireshark parser for analyzing traffic
+- **Cloud-connected smart home system:** MQTT with Azure IoT Hub, controlled from a Flutter Windows app
+- **Flutter Windows terminal** for controlling STM32 boards over COM port and Ethernet TCP
+
+## 📌 Pinned repositories
+
+<!-- Replace these with your real repository links -->
+- **STM32 Modbus TCP (LwIP):** Modbus TCP server and client on STM32, following a 7-part tutorial series: holding/input registers, coils and discrete inputs (server), then a client that reads registers and coils. [Link to repo](https://github.com/sabboshachi/REPO-NAME)
+- **Flutter Windows terminal:** a desktop terminal app for STM32 control. [Link to repo](https://github.com/sabboshachi/REPO-NAME)
+
+## 🎓 Education
+
+B.Sc. in Electronics and Telecommunication Engineering, Rajshahi University of Engineering and Technology (RUET), 2017 to 2024
+
+## 📫 Get in touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabboshachi.ruet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabboshachi-sarkar-8b5573154)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](http://sabboshachi.github.io)
+
+---
+
+<sub>Currently learning: Modbus TCP over LwIP on STM32 and Flutter desktop apps.</sub>
 
 <br/>
 
